@@ -1,0 +1,141 @@
+html {
+	background-color: #3e88d2;
+
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.max {
+	width: 100%;
+	height: auto;
+}
+
+.max-span {
+	font-weight: 900;
+	width: 100%;
+	height: 160px;
+	font-size: 70px;
+	color: #ffffff;
+	line-height: 160px;
+	float: left;
+	text-align: center;
+}
+
+.max-sk {
+	width: 100%;
+	height: 1200px;
+	background-color: #FFFFFF;
+	float: left;
+	margin-top: 160px;
+}
+
+.max-sk-nz {
+	width: 90%;
+	height: 1450px;
+	border-radius: 20px;
+	box-shadow: 5px 5px 10px 3px #888888;
+	position: absolute;
+	left: 5%;
+	top: 160px;
+	background-color: #ffffff;
+}
+
+.max-sk-nz-zt {
+	width: 100%;
+	height: 60px;
+	text-align: left;
+	color: #000000;
+	float: left;
+	font-size: 40px;
+	font-weight: bold;
+	line-height: 50px;
+	text-indent: 20px;
+}
+.max-sk-nz-ewm{
+	width: 100%;
+	height: 500px;
+	float: left;
+	margin-top: 60px;
+}
+.ewm{
+	width: 500px;
+	height: 500px;
+	background-color: #3E88D2;
+	margin-left: auto;margin-right: auto;
+}
+.max-sk-nz-zts {
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	color: #000000;
+	float: left;
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 50px;
+	
+}
+.max-sk-nz-ztss {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    color: #000000;
+    float: left;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 50px;
+}
+.max-sk-nz-zts-a{
+
+	color: #3E88D2;
+	font-size: 40px;
+	text-decoration:none;
+
+}
+.max-sk-nz-zts-aa{
+	color: rgb(1, 128, 255);
+	font-size: 30px;
+	text-decoration:none;
+
+}
+.anniu{
+	width: 80%;
+	    height: 80px;
+	    background-color: #3E88D2;
+	    border-radius: 10px;
+	    float: left;
+	    margin-left: 10%;
+	    margin-top: 30px;
+		text-align: center;
+		line-height: 80px;
+		color: #FFFFFF;
+		font-size: 50px;
+}
+/*.anniu1 {
+    width: 35%;
+    height: 80px;
+    background-color: #3E88D2;
+    border-radius: 10px;
+    float: left;
+    margin-left: 10%;
+    margin-top: 30px;
+    text-align: center;
+    line-height: 80px;
+    color: #FFFFFF;
+    font-size: 35px;
+}*/
+.anniu1 {
+    width: 80%;
+    height: 80px;
+    background-color: #3E88D2;
+    border-radius: 10px;
+    float: left;
+    margin-left: 10%;
+    margin-top: 30px;
+    text-align: center;
+    line-height: 80px;
+    color: #FFFFFF;
+    font-size: 50px;
+}
