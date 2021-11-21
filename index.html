@@ -145,7 +145,7 @@
             //second1 = 2;
 
             if (((hour1 + 2) * 60 + minute1) <= 1350) {
-                document.getElementById("time").innerText = "通行时间：" + year1 + "-" + month1 + "-" + day1 + " " + ((hour1 - 2 + 24) % 24).toString().padStart(2, '0') + ":" + minute1.toString().padStart(2, '0') + "-" + year1 + "/" + month1 + "/" +( day1+2)) + " " + ((hour1 + 2 + 24) % 24).toString().padStart(2, '0') + ":" + minute1.toString().padStart(2, '0') + ":00";
+                document.getElementById("time").innerText = "通行时间：" + year1 + "-" + month1 + "-" + day1 + " " + ((hour1 - 2 + 24) % 24).toString().padStart(2, '0') + ":" + minute1.toString().padStart(2, '0') + "-" + year1 + "/" + month1 + "/" +( day1+2) + " " + ((hour1 + 2 + 24) % 24).toString().padStart(2, '0') + ":" + minute1.toString().padStart(2, '0') + ":00";
             }
             else {
                 document.getElementById("time").innerText = "通行时间：" + year1 + "-" + month1 + "-" + day1 + " " + ((hour1 - 2 + 24) % 24).toString().padStart(2, '0') + ":" + minute1.toString().padStart(2, '0') + "-" + year1 + "/" + month1 + "/" + (day1+2) + " " + "22:30:00";
